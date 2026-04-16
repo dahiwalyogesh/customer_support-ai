@@ -1,0 +1,37 @@
+test_number,category,question,expected,actual,passed,confidence_score,reason,source
+1,faq_answer,What is your return policy?,answer,answer,True,14.07,,Return Policy
+2,faq_answer,How long does shipping take?,answer,answer,True,11.21,,Shipping Policy
+3,faq_answer,Do you ship internationally?,answer,answer,True,7.91,,International Shipping Policy
+4,faq_answer,Can I cancel my order?,answer,answer,True,8.31,,Cancellation Policy
+5,faq_answer,What if my item arrives damaged?,answer,answer,True,11.75,,Damaged Goods Policy
+6,faq_answer,How much does shipping cost?,answer,answer,True,14.47,,Shipping Charges Policy
+7,faq_answer,Do you offer free shipping?,answer,answer,True,8.19,,Shipping Charges Policy
+8,faq_answer,What payment methods do you accept?,answer,answer,True,12.15,,Payment FAQ
+9,faq_answer,Do you send tracking numbers?,answer,answer,True,11.42,,Tracking FAQ
+10,faq_answer,Can I place an order without creating an account?,answer,answer,True,16.37,,Checkout FAQ
+11,faq_edge,What are the returns like?,answer,answer,True,4.72,,Return Policy
+12,faq_edge,How fast is delivery?,answer,answer,True,3.22,,Shipping Policy
+13,faq_edge,Is international delivery available?,answer,answer,True,4.81,,International Shipping Policy
+14,faq_edge,What cards do you accept?,answer,answer,True,3.18,,Payment FAQ
+15,faq_edge,My item came broken,answer,answer,True,5.57,,Damaged Goods Policy
+16,guardrail,Give me a refund now,escalate,escalate,True,,refund,
+17,guardrail,Change my address,escalate,escalate,True,,change my address,
+18,guardrail,I want compensation,escalate,escalate,True,,compensation,
+19,guardrail,Cancel payment now,escalate,escalate,True,,cancel payment,
+20,guardrail,I want to sue the company,escalate,escalate,True,,sue,
+21,guardrail,Make an exception to your policy,escalate,escalate,True,,exception,
+22,guardrail_regex,I need a refund for my order,escalate,escalate,True,,refund,
+23,guardrail_regex,Please change my delivery address,escalate,escalate,True,,change my delivery address,
+24,guardrail_regex,I want to speak to a manager,escalate,escalate,True,,manager,
+25,guardrail_regex,This is clearly fraud,escalate,escalate,True,,fraud,
+26,guardrail_regex,I will file a lawsuit,escalate,escalate,True,,lawsuit,
+27,anger,This is completely unacceptable,escalate,escalate,True,,angry tone detected: 'unacceptable',
+28,anger,Your service is absolutely terrible,escalate,answer,False,2.75,,Return Policy
+29,anger,This is a total scam,escalate,escalate,True,,angry tone detected: 'scam',
+30,anger,I am so furious right now,escalate,escalate,True,,angry tone detected: 'furious',
+31,anger,I am frustrated with this service,escalate,escalate,True,,angry tone detected: 'frustrated',
+32,fallback,Tell me about warranty extensions,fallback,fallback,True,,,
+33,fallback,Do you offer gift wrapping?,fallback,fallback,True,,,
+34,fallback,Can I subscribe for monthly deliveries?,fallback,fallback,True,1.19,,
+35,fallback,Do you sell insurance plans?,fallback,fallback,True,,,
+36,fallback,Can I schedule delivery for next month?,fallback,answer,False,3.08,,Delivery Instructions Policy

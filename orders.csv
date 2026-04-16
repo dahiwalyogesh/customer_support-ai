@@ -1,0 +1,16 @@
+order_id,customer_name,status,estimated_delivery
+ORD1001,Alice Brown,Shipped,2026-04-15
+ORD1002,James Smith,Processing,2026-04-17
+ORD1003,Sara Khan,Delivered,2026-04-10
+ORD1004,Daniel Lee,Out for delivery,2026-04-13
+ORD1005,Emma Wilson,Cancelled,2026-04-09
+ORD1006,Liam Johnson,Shipped,2026-04-16
+ORD1007,Olivia Davis,Processing,2026-04-18
+ORD1008,Noah Martinez,Delivered,2026-04-08
+ORD1009,Ava Thompson,Out for delivery,2026-04-13
+ORD1010,William Garcia,Shipped,2026-04-15
+ORD1011,Sophia Anderson,Cancelled,2026-04-07
+ORD1012,James Taylor,Processing,2026-04-19
+ORD1013,Isabella White,Delivered,2026-04-11
+ORD1014,Benjamin Harris,Shipped,2026-04-16
+ORD1015,Mia Clark,Out for delivery,2026-04-13

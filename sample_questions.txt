@@ -1,0 +1,45 @@
+# FAQ / policy questions
+What is your return policy?
+How long does shipping take?
+Do you ship internationally?
+Can I cancel my order?
+What if my item arrives damaged?
+How much does shipping cost?
+Do you offer free shipping?
+Can I exchange an item?
+What payment methods do you accept?
+When will I receive my order confirmation email?
+Can I update my delivery instructions?
+What should I do if my package is delayed?
+What happens if I entered the wrong email address?
+How do I know if an item is in stock?
+Do you send tracking numbers?
+Can I place an order without creating an account?
+What should I do if I received the wrong item?
+Can I use more than one discount code?
+How long does it take to process an order?
+
+# Tracking questions
+How do I track my order?
+Where is my order?
+Track my order
+Order status
+Where's my order?
+
+# Escalation questions
+Give me a refund now
+Change my address
+I want compensation
+Make an exception to your policy
+Cancel payment now
+I want to sue the company
+This is fraud
+I want a manager
+Escalate this complaint
+
+# Fallback questions
+Tell me about warranty extensions
+Do you offer gift wrapping?
+Can I subscribe for monthly deliveries?
+Do you sell insurance plans?
+Can I schedule delivery for next month?

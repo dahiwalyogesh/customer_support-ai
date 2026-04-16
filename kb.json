@@ -1,0 +1,176 @@
+[
+  {
+    "id": 1,
+    "question": "What is your return policy?",
+    "keywords": ["return", "returns", "policy", "return policy", "return item"],
+    "answer": "Customers can return unused items within 14 days of delivery for a refund or exchange.",
+    "source": "Return Policy"
+  },
+  {
+    "id": 2,
+    "question": "How long does shipping take?",
+    "keywords": ["shipping", "delivery", "how long", "ship", "arrive", "shipping time", "fast", "quick", "speed"],
+    "answer": "Standard shipping takes 3 to 5 business days. Express shipping takes 1 to 2 business days.",
+    "source": "Shipping Policy"
+  },
+  {
+    "id": 3,
+    "question": "Can I cancel my order?",
+    "keywords": ["cancel", "cancellation", "cancel order", "order cancel"],
+    "answer": "Orders can be cancelled within 2 hours of placement if they have not already been processed.",
+    "source": "Cancellation Policy"
+  },
+  {
+    "id": 4,
+    "question": "How do I track my order?",
+    "keywords": ["track", "tracking", "where is my order", "order status", "track order"],
+    "answer": "You can track your order using your order ID in the support assistant or through the tracking link in your shipping confirmation email.",
+    "source": "Order Tracking FAQ"
+  },
+  {
+    "id": 5,
+    "question": "What if my item arrives damaged?",
+    "keywords": ["damaged", "broken", "defective", "arrived damaged", "item damaged"],
+    "answer": "If your item arrives damaged, contact support within 48 hours of delivery with photos of the item and packaging.",
+    "source": "Damaged Goods Policy"
+  },
+  {
+    "id": 6,
+    "question": "Do you ship internationally?",
+    "keywords": ["international", "abroad", "country", "countries", "ship internationally", "international shipping"],
+    "answer": "Yes, we ship to selected countries in Europe and North America. Delivery times vary by destination.",
+    "source": "International Shipping Policy"
+  },
+  {
+    "id": 7,
+    "question": "How much does shipping cost?",
+    "keywords": ["shipping cost", "delivery cost", "shipping price", "how much shipping", "shipping fee"],
+    "answer": "Standard shipping costs $4.99. Express shipping costs $9.99. Orders above $50 qualify for free standard shipping.",
+    "source": "Shipping Charges Policy"
+  },
+  {
+    "id": 8,
+    "question": "Do you offer free shipping?",
+    "keywords": ["free shipping", "shipping free", "delivery free"],
+    "answer": "Yes, orders above $50 qualify for free standard shipping.",
+    "source": "Shipping Charges Policy"
+  },
+  {
+    "id": 9,
+    "question": "Can I exchange an item?",
+    "keywords": ["exchange", "exchange item", "replace item", "swap item"],
+    "answer": "Unused items can be exchanged within 14 days of delivery, subject to stock availability.",
+    "source": "Exchange Policy"
+  },
+  {
+    "id": 10,
+    "question": "What payment methods do you accept?",
+    "keywords": ["payment methods", "pay", "credit card", "debit card", "paypal", "payment options"],
+    "answer": "We accept major credit cards, debit cards, and PayPal.",
+    "source": "Payment FAQ"
+  },
+  {
+    "id": 11,
+    "question": "When will I receive my order confirmation email?",
+    "keywords": ["order confirmation", "confirmation email", "email confirmation", "receipt email"],
+    "answer": "Order confirmation emails are usually sent within a few minutes after a successful purchase.",
+    "source": "Order Confirmation FAQ"
+  },
+  {
+    "id": 12,
+    "question": "Can I update my delivery instructions?",
+    "keywords": ["delivery instructions", "update instructions", "change instructions", "delivery note"],
+    "answer": "Delivery instructions can only be updated before the order has been shipped.",
+    "source": "Delivery Instructions Policy"
+  },
+  {
+    "id": 13,
+    "question": "What should I do if my package is delayed?",
+    "keywords": ["delayed", "package delayed", "late delivery", "late package", "delivery delay"],
+    "answer": "If your package is delayed beyond the estimated delivery date, contact support with your order ID for further assistance.",
+    "source": "Delivery Delay FAQ"
+  },
+  {
+    "id": 14,
+    "question": "What happens if I entered the wrong email address?",
+    "keywords": ["wrong email", "incorrect email", "change email", "email address wrong"],
+    "answer": "If you entered the wrong email address, contact support as soon as possible so the order details can be corrected if processing has not been completed.",
+    "source": "Account Support FAQ"
+  },
+  {
+    "id": 15,
+    "question": "How do I know if an item is in stock?",
+    "keywords": ["in stock", "stock", "availability", "available item", "item available"],
+    "answer": "Product availability is shown on the product page. If an item is out of stock, it will be marked accordingly.",
+    "source": "Inventory FAQ"
+  },
+  {
+    "id": 16,
+    "question": "Do you send tracking numbers?",
+    "keywords": ["tracking number", "tracking code", "shipment tracking", "send tracking"],
+    "answer": "Yes, a tracking number is sent by email once the order has been shipped.",
+    "source": "Tracking FAQ"
+  },
+  {
+    "id": 17,
+    "question": "Can I place an order without creating an account?",
+    "keywords": ["guest checkout", "without account", "order without account", "checkout as guest"],
+    "answer": "Yes, guest checkout is available for most purchases.",
+    "source": "Checkout FAQ"
+  },
+  {
+    "id": 18,
+    "question": "What should I do if I received the wrong item?",
+    "keywords": ["wrong item", "incorrect item", "received wrong product", "wrong order item"],
+    "answer": "If you received the wrong item, contact support within 48 hours of delivery and include your order ID and photos of the received product.",
+    "source": "Incorrect Item Policy"
+  },
+  {
+    "id": 19,
+    "question": "Can I use more than one discount code?",
+    "keywords": ["discount code", "promo code", "coupon", "multiple coupon", "more than one code"],
+    "answer": "Only one discount code can be used per order unless a promotion explicitly states otherwise.",
+    "source": "Promotions FAQ"
+  },
+  {
+    "id": 20,
+    "question": "How long does it take to process an order?",
+    "keywords": ["processing time", "process order", "order processing", "how long processing"],
+    "answer": "Most orders are processed within 1 business day before shipment.",
+    "source": "Order Processing Policy"
+  },
+  {
+    "id": 21,
+    "question": "How do I contact customer support?",
+    "keywords": ["contact", "support", "help", "reach", "customer service", "get help"],
+    "answer": "You can contact our support team via the live chat on our website or by emailing support@store.com. We aim to respond within 24 hours.",
+    "source": "Contact FAQ"
+  },
+  {
+    "id": 22,
+    "question": "Can I change my order after placing it?",
+    "keywords": ["change order", "modify order", "update order", "edit order", "order change"],
+    "answer": "Orders can only be modified within 2 hours of placement and before processing begins. Contact support immediately if you need to make changes.",
+    "source": "Order Modification Policy"
+  },
+  {
+    "id": 23,
+    "question": "Do you offer next day delivery?",
+    "keywords": ["next day", "next day delivery", "overnight", "same day", "urgent delivery"],
+    "answer": "Yes, express shipping (1 to 2 business days) is available at checkout for $9.99.",
+    "source": "Shipping Policy"
+  },
+  {
+    "id": 24,
+    "question": "What happens if I miss my delivery?",
+    "keywords": ["missed delivery", "miss delivery", "not home", "failed delivery", "missed parcel"],
+    "answer": "If you miss your delivery, the courier will leave a card with instructions for redelivery or collection from a local depot.",
+    "source": "Delivery FAQ"
+  },
+  {
+    "id": 25,
+    "question": "Can I return a sale item?",
+    "keywords": ["return sale", "sale item return", "discounted item return", "sale refund"],
+    "answer": "Sale items can be returned within 14 days of delivery for an exchange or store credit. Refunds on sale items are not available.",
+    "source": "Return Policy"
+  }]

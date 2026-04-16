@@ -1,0 +1,32 @@
+timestamp,question,action,answer,source,confidence_score
+2026-03-25T15:28:53.623813,how to ask quetion ,answered_kb,Standard shipping takes 3 to 5 business days. Express shipping takes 1 to 2 business days.,Shipping Policy,2
+2026-03-25T15:31:17.527944,What is your return policy?,answered_kb,Customers can return unused items within 14 days of delivery for a refund or exchange.,Return Policy,7
+2026-03-25T15:31:33.790738,How long does shipping take?,answered_kb,Standard shipping takes 3 to 5 business days. Express shipping takes 1 to 2 business days.,Shipping Policy,8
+2026-03-25T15:31:48.022995,Where is my order?,tracking_missing_order_id,,,
+2026-03-25T15:31:52.259284,Where is my order?,tracking_missing_order_id,,,
+2026-03-25T15:32:02.927637,Where is my order?,answered_order_lookup,Order ORD1001 for Alice Brown is currently 'Shipped' and is expected on 2026-03-28.,orders.csv,N/A
+2026-03-25T15:32:18.691922,Give me a refund now,escalated,,,
+2026-03-25T16:06:55.980669,Do you ship internationally?,answered_kb,"Yes, we ship to selected countries in Europe and North America. Delivery times vary by destination.",International Shipping Policy,6
+2026-03-25T16:06:59.953971,Give me a refund now,escalated,,,
+2026-03-27T15:20:03.657673,Do you ship internationally?,answered_kb,"Yes, we ship to selected countries in Europe and North America. Delivery times vary by destination.",International Shipping Policy,6
+2026-03-27T15:20:14.339511,What is your return policy?,answered_kb,Customers can return unused items within 14 days of delivery for a refund or exchange.,Return Policy,7
+2026-04-02T02:02:54.656265,wolverhampton,fallback_no_reliable_answer,I could not find a reliable answer in the knowledge base. Please escalate this case to a human agent.,,0
+2026-04-02T02:03:04.848464,Where is my order?,tracking_missing_order_id,,,
+2026-04-02T02:17:45.092027,Do you ship internationally?,answered_kb,"Yes, we ship to selected countries in Europe and North America. Delivery times vary by destination.",International Shipping Policy,6
+2026-04-08T21:10:22.747369,wolverhampton,fallback_no_reliable_answer,I could not find a reliable answer in the knowledge base. Please escalate this case to a human agent.,,0
+2026-04-08T21:11:14.820115,order tracking,tracking_missing_order_id,,,
+2026-04-08T21:11:26.367311,How long does shipping take?,answered_kb,Standard shipping takes 3 to 5 business days. Express shipping takes 1 to 2 business days.,Shipping Policy,8
+2026-04-08T21:11:33.261843,How long does shipping take?,answered_kb,Standard shipping takes 3 to 5 business days. Express shipping takes 1 to 2 business days.,Shipping Policy,8
+2026-04-08T21:11:42.750059,Where is my order?,tracking_missing_order_id,,,
+2026-04-08T21:11:46.029400,What if my item arrives damaged?,answered_kb,"If your item arrives damaged, contact support within 48 hours of delivery with photos of the item and packaging.",Damaged Goods Policy,8
+2026-04-08T21:11:59.830549,Give me a refund now,escalated,,,
+2026-04-08T21:12:14.567964,What if my item arrives damaged?,answered_kb,"If your item arrives damaged, contact support within 48 hours of delivery with photos of the item and packaging.",Damaged Goods Policy,8
+2026-04-08T21:12:18.457941,Give me a refund now,escalated,,,
+2026-04-08T21:32:01.674931,Check if the request is high risk,fallback_no_reliable_answer,I could not find a reliable answer in the knowledge base. Please escalate this case to a human agent.,,2
+2026-04-08T21:32:25.479458,What is your return policy?,answered_kb,Customers can return unused items within 14 days of delivery for a refund or exchange.,Return Policy,7
+2026-04-13T02:07:39.236791,How long does shipping take?,answered_kb,Standard shipping takes 3 to 5 business days. Express shipping takes 1 to 2 business days.,Shipping Policy,10.4
+2026-04-13T02:17:53.328428,Do you offer gift wrapping?,fallback_no_reliable_answer,I could not find a reliable answer in the knowledge base. Please escalate this case to a human agent.,,0.0
+2026-04-13T02:19:00.034982,Can I schedule a delivery,fallback_no_reliable_answer,I could not find a reliable answer in the knowledge base. Please escalate this case to a human agent.,,3.09
+2026-04-13T02:19:23.868728,Do you sell insurance plans?,fallback_no_reliable_answer,I could not find a reliable answer in the knowledge base. Please escalate this case to a human agent.,,0.0
+2026-04-13T02:52:51.562727,Do you sell insurance plans?,llm_uncertain,"I cannot help with that topic. I only assist with e-commerce support questions like shipping, returns, order tracking, and similar order-related matters. If you have questions about your orders or deliveries, I'd be happy to help with those!",llm,llm
+2026-04-13T02:52:53.777009,Do you sell insurance plans?,llm_uncertain,"I cannot help with that topic. I only assist with e-commerce support questions like shipping, returns, order tracking, and payment methods. For questions about insurance plans or other products we may offer, please contact our main customer service team.",llm,llm
