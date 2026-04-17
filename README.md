@@ -1,3 +1,5 @@
+## Live Demo
+[Open the app](https://customersupport-ai.streamlit.app)
 # Customer Support AI Assistant Prototype
 
 ## Overview
